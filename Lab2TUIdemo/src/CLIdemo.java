@@ -18,12 +18,6 @@ import org.jline.utils.*;
 import org.fusesource.jansi.*;
 
 /**
- * Sample application to show how jLine can be used.
- *
- * author sandarenu
- *
- */
-/**
  * Console client for 'Banking' example
  *
  * author Alexander 'Taurus' Babich
